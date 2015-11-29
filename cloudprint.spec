@@ -10,7 +10,7 @@ URL:		https://github.com/armooo/cloudprint
 BuildRequires:	python-devel
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-modules
 Requires:	python-pycups
 Suggests:	python-daemon
